@@ -20,7 +20,7 @@ One of the biggest issues Berlin faces is the the proliferation of cars on its r
 
 Other cities in Europe have been experimenting with car-free designs, notably, Barcelona's project of Superblocks helped [free up to 92% of public space](https://energy-cities.eu/best-practice/superblocks-free-up-to-92-of-public-space-in-barcelona/) by limiting where cars are allowed to drive thereby encouraging people to walk and bike. 
 
-![img/Pasted image 20211111115812.png](img/Pasted image 20211111115812.png)
+![img/superblock-intro.png](img/superblock-intro.png)
 
 *Figure 1*. A Superblock is a bounded collection of nearby city blocks where drive-through traffic has been replaced by one-way roads with a very low speed limit for cars. No new construction required, which is why such a design is very easy to implement in any city.
 
@@ -101,7 +101,7 @@ If we wanted to estimate the actual maximum number of cars on the streets for ea
 
 ## Results
 
-![img/Pasted image 20211112174813.png](img/Pasted image 20211112174813.png)
+![img/img/simulation-result.png](img/simulation-result.png)
 
 *Figure 5*. Results of the simulation showing the advantages of the superblock design in two metrics: nearly half as many cars and slightly faster average travel time.
 
